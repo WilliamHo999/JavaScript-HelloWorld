@@ -1,2 +1,2 @@
-# JavaScript-HelloWorld
+# HelloWorld
 JavaScript HelloWorld
